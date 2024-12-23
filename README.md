@@ -1,3 +1,9 @@
+## ☕ Buy Me a Coffee
+
+If you find my work helpful and want to support me, consider buying me a coffee! Your support helps me keep going and create more awesome projects.  
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white&style=flat-square)](https://buymeacoffee.com/johanlieb34)
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">                                                   TOJI MD
