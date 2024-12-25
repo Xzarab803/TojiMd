@@ -22,18 +22,11 @@ If you find my work helpful and want to support me, consider buying me a coffee!
 | Work ➜ |  ✅ |   ✅  |    ✅  |     ✅   |   ✅  | ✅ |   ✅ |  ✅ |  ✅   | ✅  |    ✅   |  ✅  |
 
 
-## 🎬 Watch the Tutorial
-
-To set up the TOJI MD quickly, follow our detailed tutorial on YouTube:
-[![TOJI MD Bot YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/QIvv1gh-C_c?si=_cIz3rqxGY713Y-s)
 
 ## `INSTALATION` 
 1. Fork the repo
     <br>
 <a href='https://github.com/Johanlieb34/TojiMd/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-2. Get session id by Pairing Code remember put session id on config.js
-    <br>
-<a href='https://strange-lorette-dandadaneeeeeomomkk-67d17712.koyeb.app/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #### DEPLOY TO PANEL
@@ -50,6 +43,6 @@ To set up the TOJI MD quickly, follow our detailed tutorial on YouTube:
 <p align="center">
 <a href="https://wa.me/2349134457509"><img src="https://img.shields.io/badge/Contact KING JOHAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Johanlieb34?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Queen-RiasV3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Johanlieb34/TojiMd?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Queen-RiasV3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Johanlieb34/TojiMd?label=Watchers&color=yellow&style=flat-square"></a>
+<a href="https://github.com/johanlieb34/followers"><img title="Followers" src="https://img.shields.io/github/followers/Johanlieb34?color=blue&style=flat-square"></a>
+<a href="https://github.com/johanlieb34/TojiMd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Johanlieb34/TojiMd?color=red&style=flat-square"></a>
+<a href="https://github.com/johanlieb34//watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Johanlieb34/TojiMd?label=Watchers&color=yellow&style=flat-square"></a>
