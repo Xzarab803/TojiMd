@@ -1,3 +1,4 @@
+## repo is under development dont deploy yet
 ## ☕ Buy Me a Coffee
 
 If you find my work helpful and want to support me, consider buying me a coffee! Your support helps me keep going and create more awesome projects.  
@@ -41,7 +42,7 @@ If you find my work helpful and want to support me, consider buying me a coffee!
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349134457509"><img src="https://img.shields.io/badge/Contact KING JOHAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2347030229711"><img src="https://img.shields.io/badge/Contact KING JOHAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://github.com/johanlieb34/followers"><img title="Followers" src="https://img.shields.io/github/followers/Johanlieb34?color=blue&style=flat-square"></a>
 <a href="https://github.com/johanlieb34/TojiMd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Johanlieb34/TojiMd?color=red&style=flat-square"></a>
