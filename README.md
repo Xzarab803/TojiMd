@@ -25,9 +25,9 @@ If you find my work helpful and want to support me, consider buying me a coffee!
 
 
 ## `INSTALATION` 
-1. Fork the repo
+1. since repo is under development download file here tap to download 👇
     <br>
-<a href='https://github.com/Johanlieb34/TojiMd/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.mediafire.com/file/jb24tncgnde712v/TOJIMDFIXED%25F0%259F%258D%25BC.zip/file' target="_blank"><img alt='DOWNLOAD' src='https://img.shields.io/badge/DOWNLOAD-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #### DEPLOY TO PANEL
