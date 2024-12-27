@@ -169,7 +169,7 @@ async function connectionUpdate(update) {
   }
   if (global.db.data == null) loadDatabase();
   if (connection == 'open') {
-    console.log(chalk.yellow('Conectado correctamente.'))
+    console.log(chalk.yellow('Conected.'))
   }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode;
 if (reason == 405) {
