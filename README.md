@@ -38,7 +38,7 @@ Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
 1. JUST SIGN IN WITH DISCORD .
     <br>
 <a href='https://dashboard.katabump.com/auth/login#c0a726' target="_blank"><img alt='Render' src='https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-## 🍼 `BOT OWNER` 
+## 👑 `BOT OWNER` 
 <a href="https://github.com/Johanlieb34"><img src="https://github.com/Johanlieb34.png" width="250" height="250" alt="Salman Ahmad"/></a>
 ## , ```CONTACT ME ON WHATSAPP```
 
