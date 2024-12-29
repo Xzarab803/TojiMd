@@ -50,3 +50,8 @@ Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
 <a href="https://github.com/johanlieb34/followers"><img title="Followers" src="https://img.shields.io/github/followers/Johanlieb34?color=blue&style=flat-square"></a>
 <a href="https://github.com/johanlieb34/TojiMd/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Johanlieb34/TojiMd?color=red&style=flat-square"></a>
 <a href="https://github.com/johanlieb34//watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Johanlieb34/TojiMd?label=Watchers&color=yellow&style=flat-square"></a>
+
+
+![Forks](https://img.shields.io/github/forks/Johanlieb34/TojiMd?style=social)
+
+
